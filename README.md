@@ -1,6 +1,5 @@
 ### Hi there 👋
- <img align="right" alt="Coding" width="400" src="[add your link 
-  here](https://imgur.com/kMvnYUB)">
+ <img align="right" alt="Coding" width="400" src="https://imgur.com/kMvnYUB">
 <!--
 **gustavo-rss/gustavo-rss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
