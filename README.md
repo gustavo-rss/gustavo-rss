@@ -1,5 +1,18 @@
-### Hi there 👋
- <img align="right" alt="Coding" width="400" src="https://imgur.com/kMvnYUB">
+### Hello, world!<br/>
+*  I’m currently focusing on Robot Framework. 💻🤖
+ <br/>
+ Feel free to reach me, specially to talk about tests! ✌️
+ <br/> <br/> <br/>
+ <img align="center" alt="Coding" width="1000" src="https://i.imgur.com/kMvnYUB.gif">
+ <br/>
+ 
+ 
+ 
+
+ 
+ 
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gustavo-rss&theme=one-dark-pro)](https://git.io/streak-stats)
+ 
 <!--
 **gustavo-rss/gustavo-rss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
