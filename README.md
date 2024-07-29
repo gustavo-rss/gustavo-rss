@@ -16,7 +16,7 @@ I’m currently studying Robot Framework, JavaScript and Cypress 💻🤖
 <h3>Contact:</h3>
  <a href="https://www.linkedin.com/in/gustavo-ramos-s-silva/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  <a href="mailto:gustavo.rdev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-A20D02?style=for-the-badge&logo=gmail&logoColor=white"></a>
- <a href="https://medium.com/@gustavo.rdev" target="_blank"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"></a>
+ <a href="https://medium.com/@gustavo-rss" target="_blank"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"></a>
 </div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gustavo-rss&label=Profile%20views&color=0e75b6&style=flat" alt="Gustavo Ramos profile count" /> </p>
