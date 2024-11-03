@@ -1,6 +1,6 @@
 ```diff
 Hello, world!
-I’m currently studying Robot Framework, JavaScript and Cypress 💻🤖
+I’m currently studying Playwright, Artillery, C# and JavaScript 💻🤖
 ```
  
  <div align="center">  
